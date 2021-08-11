@@ -16,8 +16,9 @@ June 2019 - Present
 * Develop and maintain Ansible roles and playbooks to administer roughly 70 Ubuntu servers, both bare metal and virtual
 * Implemented a transition to GitHub Enterprise and promoted a culture of pull requests to distribute systems responsibility and break down knowledge silos
 * Administer a network security monitoring (NSM) system consisting of multiple passive taps, packet brokers, and Zeek and Suricata clusters that analyzes an average combined throughput of 80Gb/s of traffic across 7 campuses
-* Build queries, visualizations, and dashboards in Elastic Kibana and Azure Sentinel to analyze network traffic and security alerts for malicious activity
-* Proactively seek out anomalies in network and event logs and potential threats in multiple threat intel feeds
+* Build queries, visualizations, and dashboards in Elastic Kibana and Azure Sentinel to streamline and automate incident response and threat intelligence
+* Interface with Enterprise and Departmental IT to to advise on design, architecture, deployment, and operation of systems across the university with regards to threat modeling, vulnerability assessments, and general security concerns
+* Proactively seek out anomalies in network and event logs and potential threats in multiple threat intelligence feeds
 * Continually strive to maintain the security posture of the university while still enabling users to achieve the mission of education and research
 * Active in all aspects of employee development, including interviewing candidates, training
 and mentoring staff, and setting and evaluating performance goals and professional
