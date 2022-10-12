@@ -8,9 +8,8 @@ Email: hire_me@peteru.org | phone: (812) 339-2861
 
 ## Experience
 
-**Principal Security Engineer**  
+**Principal Security Engineer**  (June 2019 - Present)  
 Indiana University - University Information Security Office  
-June 2019 - Present
 
 * Provide technical and data analysis during information security incidents to determine mitigation, recovery, and root cause of system compromises and data breaches
 * Develop and maintain Ansible roles and playbooks to administer roughly 70 Ubuntu servers, both bare metal and virtual
@@ -24,9 +23,8 @@ June 2019 - Present
 and mentoring staff, and setting and evaluating performance goals and professional
 advancement
 
-**Principal DevOps Research Storage Administrator**  
+**Principal DevOps Research Storage Administrator**  (February 2018 - June 2019)  
 Indiana University - Research Storage  
-February 2018 - June 2019
 
 * Developed and promoted a culture of data driven analysis to design and enhance near-line and
 archival storage for the university's high performance systems, reducing cost and mean time to recovery
@@ -42,9 +40,8 @@ utilizing GitHub Enterprise and SaltStack to provide standards and consistency t
 deployments
 * Built Splunk dashboards and alerts to proactively identify performance issues before users could be impacted and also to project costs and service growth
 
-**Principal Systems Engineer**  
+**Principal Systems Engineer**  (March 2015 - February 2018)  
 Indiana University - Campus Communications Infrastructure  
-March 2015 - February 2018
 
 * Lead a team of 3 administrators and 2 developers in managing over 200 enterprise servers
 * Lead the development team in a migration from manual deployments using Team Foundation Version Control to continuous integration using GitHub Enterprise, TeamCity, and Octopus Deploy
@@ -63,9 +60,8 @@ consulting for, and collaborating with, other universities and organizations
 whole by promoting transparency, encouraging frequent feedback, and prioritizing the
 organization over the individual
 
-**Computer Systems Analyst**  
+**Computer Systems Analyst**  (January 2013 - March 2015)  
 Indiana University - Department of Psychological and Brain Sciences  
-January 2013 - March 2015
 
 * Responsible for the security, reliability, performance, and functionality of departmental and
 laboratory servers
@@ -75,9 +71,8 @@ BitLocker, and IPsec encryption
 * Produced reports and recommendations for IT infrastructure within the department and
 research facilities
 
-**Lead Systems Engineer**  
+**Lead Systems Engineer**  (December 2006 - January 2013)  
 Indiana University - Campus Communications Infrastructure  
-December 2006 - January 2013
 
 * Provided analysis, design, and advanced troubleshooting of enterprise scale Active Directory
 Domain Services, Exchange 2007/2010, OCS 2007/Lync 2010, SharePoint 2010, and other
@@ -86,13 +81,11 @@ Microsoft technologies
 
 ## Education
 
-**Masters of Data Science**  
-Indiana University - Expected 2022
+**Masters of Data Science** (Indiana University - Expected 2023)  
 
 * Specialization in Cybersecurity
 
-**Bachelor of General Studies**  
-Indiana University - 2005  
+**Bachelor of General Studies** (Indiana University - 2005)  
 
 * Minor in Information Technology
 * Minor in Linguistics
