@@ -11,18 +11,18 @@ Email: hire_me@peteru.org | phone: (812) 339-2861
 **Principal Security Engineer**  (June 2019 - Present)  
 Indiana University - University Information Security Office  
 
-* Build queries, visualizations, and dashboards in Elastic Kibana and Azure Sentinel to streamline and automate threat detection and remediation
+* Automate threat detection and remediation by building queries, visualizations, and dashboards in Elastic Kibana and Azure Sentinel
 * Proactively seek out anomalies in network and security telemetry and map them to frameworks such as MITRE ATT&CK for analysis to identify gaps in coverage
 * Conduct risk assessments for mission critical services and provide recommendations and guidance to service owners and senior leadership
-* Write and tune Zeek scripts, Suricata rules, and Kusto queries to lower false positives and alert on targeted tactics, techniques, and procedures
-* Write custom scripts in Python and PowerShell to extract, transform, and load open source intelligence into network intrusion detection systems
+* Create alerts on targeted tactics, techniques, and procedures and reduce false positives by writing and tuning Zeek scripts, Suricata rules, and Kusto queries
+* Extract, transform, and load open source intelligence into network intrusion detection systems using custom scripts in Python and PowerShell
 * Provide technical and data analysis during information security incidents to determine mitigation, recovery, and root cause of system compromises and data breaches
-* Interface with IT leadership to advise on design, architecture, deployment, and operation of systems across the university with regards to threat modeling, vulnerability assessments, and general security concerns
+* Architect secure solutions for systems across the university utilizing threat models, vulnerability assessments, and general security concerns
 * Continually strive to improve the security posture of the university while still enabling users to achieve the mission of education and research
 * Administer a network security monitoring (NSM) system consisting of multiple passive taps, packet brokers, and Zeek and Suricata clusters that analyzes an average combined throughput of 80Gb/s of traffic across 7 campuses
-* Develop and maintain Ansible roles and playbooks to administer roughly 70 Ubuntu servers, both bare metal and virtual
-* Implemented a transition to GitHub Enterprise and promoted a culture of pull requests to distribute systems responsibility and break down knowledge silos
-* Active in all aspects of employee development, including interviewing candidates, training and mentoring staff, and setting and evaluating performance goals and professional advancement
+* Manage deployment and configuration of 70 Ubuntu servers using Ansible roles and playbooks
+* Distribute systems responsibility and break down knowledge silos by implementing a culture of version control and pull requests
+* Manage all aspects of employee development, including interviewing candidates, training and mentoring staff, and setting and evaluating performance goals and professional advancement
 
 **Principal DevOps Research Storage Administrator**  (February 2018 - June 2019)  
 Indiana University - Research Storage  
