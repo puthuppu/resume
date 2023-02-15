@@ -29,7 +29,7 @@ Indiana University - Research Storage
 
 * Developed and promoted a culture of data driven analysis to design and enhance near-line and archival storage for the university's high performance systems, reducing cost and mean time to recovery
 * Researched and evaluated potential storage technologies that could augment or enhance value for the IU research community
-* Identified and developed efficiencies in service delivery wherever possible
+* Identified and developed efficiencies in system security and service delivery wherever possible
 * Served as consultant in assisting with high-end performance computing application users to find computer based solutions to advance research needs
 * Developed and presented service specific documentation and instructional materials for both internal and external users
 * Contributed to the design and implementation of a configuration management pipeline utilizing GitHub Enterprise and SaltStack to provide standards and consistency to system deployments
@@ -40,7 +40,7 @@ Indiana University - Campus Communications Infrastructure
 
 * Lead a team of 3 administrators and 2 developers in managing over 200 enterprise servers
 * Lead the development team in a migration from manual deployments using Team Foundation Version Control to continuous integration using GitHub Enterprise, TeamCity, and Octopus Deploy
-* Planned, implemented, and maintained critical enterprise infrastructure including, but not limited to:
+* Planned, implemented, and secured critical enterprise infrastructure including, but not limited to:
   * Active Directory Domain with over 600,000 users accounts
   * Exchange environment with over 80,000 mailboxes
   * Lync/Skype for Business environment with over 26,000 accounts
