@@ -65,7 +65,7 @@ Indiana University - Campus Communications Infrastructure
 
 ## Education
 
-**Masters of Data Science** (Indiana University - Expected 2023)  
+**Masters of Data Science** (Indiana University - 2023)  
 
 * Specialization in Cybersecurity
 
