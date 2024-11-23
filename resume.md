@@ -13,10 +13,11 @@ Indiana University - University Information Security Office
 
 * Automate threat detection and remediation by building queries, visualizations, and dashboards in Elastic Kibana and Azure Sentinel
 * Proactively seek out anomalies in network and security telemetry and map them to frameworks such as MITRE ATT&CK for analysis to identify gaps in coverage
-* Conduct risk assessments for mission critical services and provide recommendations and guidance to service owners and senior leadership
+* Provide technical and data analysis during information security incidents to determine mitigation, recovery, and root cause of system compromises and data breaches
+* Write incident reports and security briefings for leadership and departmental IT
 * Create alerts on targeted tactics, techniques, and procedures and reduce false positives by writing and tuning Zeek scripts, Suricata rules, and Kusto queries
 * Extract, transform, and load open source intelligence into network intrusion detection systems using custom scripts in Python and PowerShell
-* Provide technical and data analysis during information security incidents to determine mitigation, recovery, and root cause of system compromises and data breaches
+* Conduct risk assessments for mission critical services and provide recommendations and guidance to service owners and senior leadership
 * Architect secure solutions for systems across the university utilizing threat models, vulnerability assessments, and general security concerns
 * Continually strive to improve the security posture of the university while still enabling users to achieve the mission of education and research
 * Administer a network security monitoring (NSM) system consisting of multiple passive taps, packet brokers, and Zeek and Suricata clusters that analyzes an average combined throughput of 80Gb/s of traffic across 7 campuses
